@@ -5,9 +5,5 @@ It is amazing!
 ## Hello everyone!
 I'm learing!
 ## One more!
-<<<<<<< HEAD
-## last three!
-
-=======
 ## last two!
->>>>>>> local-dev
+
